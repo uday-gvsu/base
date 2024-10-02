@@ -1,5 +1,4 @@
-#  add .
-Earlier i wrote this in readme file of project proposal
+# Earlier i wrote this in readme file of project proposal
 
 # Team name: E-commerce platform (or) SAD Project
 
